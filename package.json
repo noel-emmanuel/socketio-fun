@@ -1,0 +1,26 @@
+{
+  "name": "socketio-fun",
+  "version": "1.0.0",
+  "description": "Simple chat web-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noel-emmanuel/socketio-fun.git"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "Noel Emmanuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noel-emmanuel/socketio-fun/issues"
+  },
+  "homepage": "https://github.com/noel-emmanuel/socketio-fun#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
